@@ -1,0 +1,11 @@
+
+.header-title {
+    font-family: 'Reenie Beanie', cursive !important;
+}
+
+.header-links {
+    font-family: 'Sorts Mill Goudy', serif  !important;
+    &:hover{
+        text-decoration: underline !important;
+    }
+}
